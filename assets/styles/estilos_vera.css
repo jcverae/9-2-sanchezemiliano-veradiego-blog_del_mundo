@@ -4,14 +4,19 @@ body {
 }
 article{
     background-color: rgb(44, 43, 43);
+    padding: 1.5rem;
+    border-color: white rgb(44, 43, 43) 1px;
 }
 nav>ul>li {
     color: yellow;
 }
 
-.resaltado {
+.resultado {
     #titulo_del_blog
     text-align: center;
     font-size: 3rem;
 }
 
+.ilustracion {
+    border: solid white;
+}
